@@ -1,9 +1,5 @@
 # Transaction Management Example
 
-I made this spring boot application that help transaction management, and its need in spring boot project.
-
-Clone it from my github repository by clicking [this link](https://github.com/aamirshayanshaikh/spring-transaction-management).
-
 #### > Prerequisites
 
 * Java 17
@@ -245,7 +241,7 @@ so when you're not using a proxy, here is what we have at runtime:
 ### Without proxy
 
 The method is invoked directly on that object reference
-![Image Alt](https://github.com/haffani/v4/blob/master/content/posts/spring-trx-management/no-proxy.png)
+![Image Alt](https://github.com/pavanuppuluri/spring-transaction-management/blob/master/no-proxy.png)
 
 ### With proxy
 
